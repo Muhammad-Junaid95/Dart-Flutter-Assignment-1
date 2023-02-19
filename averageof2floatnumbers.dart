@@ -1,3 +1,5 @@
+//Write a program that prompts the user to enter two floating-point numbers and then calculates their average. 
+//The program should display the result with two decimal places.
 import 'dart:io';
 
 void main() {
